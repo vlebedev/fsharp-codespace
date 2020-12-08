@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program":"${workspaceFolder}/fsharp/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll",
+            "program":"${workspaceFolder}/fsharp/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
